@@ -1,27 +1,4 @@
-[![Android Arsenal](https://img.shields.io/badge/Android%20Arsenal-android--pdfview-brightgreen.svg?style=flat)](https://android-arsenal.com/details/1/1332)
-
-[![Screenshot of the sample app](https://raw.github.com/JoanZapata/android-pdfview/master/device.png)](https://play.google.com/store/apps/details?id=com.joanzapata.pdfview.sample)
-
 **Android PDFView** is a library which provides a fast PDFView component for Android, with ```animations```, ```gestures```, and ```zoom```. It's based on [VuDroid](https://code.google.com/p/vudroid/) for decoding the PDF file.
-
-# Get it
-
-Android PDFView is **available in Maven Central**.
-
-```xml
-<dependency>
-	<groupId>com.joanzapata.pdfview</groupId>
-	<artifactId>android-pdfview</artifactId>
-	<version>1.0.4</version>
-	<type>apklib</type>
-</dependency>
-```
-
-Or via gradle:
-
-```
-compile 'com.joanzapata.pdfview:android-pdfview:1.0.4@aar'
-```
 
 # Include PDFView in your layout
 
@@ -49,23 +26,28 @@ pdfView.fromAsset(pdfName)
 * ```pages``` is optional, it allows you to filter and order the pages of the PDF as you need
 * ```onDraw``` is also optional, and allows you to draw something on a provided canvas, above the current page
 
-# License
+## License
 
 ```
-Copyright 2013-2015 Joan Zapata
+The MIT License (MIT)
 
-This file is part of Android-pdfview.
+Copyright (c) 2016 TheFinestArtist, Joan Zapata
 
-Android-pdfview is free software: you can redistribute it and/or modify
-it under the terms of the GNU General Public License as published by
-the Free Software Foundation, either version 3 of the License, or
-(at your option) any later version.
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
 
-Android-pdfview is distributed in the hope that it will be useful,
-but WITHOUT ANY WARRANTY; without even the implied warranty of
-MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
-GNU General Public License for more details.
+The above copyright notice and this permission notice shall be included in
+all copies or substantial portions of the Software.
 
-You should have received a copy of the GNU General Public License
-along with Android-pdfview.  If not, see <http://www.gnu.org/licenses/>.
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
+THE SOFTWARE.
 ```

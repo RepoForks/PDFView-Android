@@ -18,7 +18,7 @@ android {
 }
 
 dependencies {
-    compile project(':android-pdfview')
+    compile project(':library')
 
     compile "com.android.support:support-annotations:${rootProject.ext.supportLibVersion}"
     compile "com.android.support:appcompat-v7:${rootProject.ext.supportLibVersion}"
