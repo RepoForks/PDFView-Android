@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/TheFinestArtist/Documents/PDFView-Android/android-pdfview-sample/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="d4c936aa8c7d2522c82e3f1829c791d9e367f009">
+        <dex dex="/Users/TheFinestArtist/Documents/PDFView-Android/android-pdfview-sample/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-23.2.0_328f805fb4444304740a565991d695c428bad0a5.jar" />
+    </item>
+    <item
+        jar="/Users/TheFinestArtist/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.2.0/support-annotations-23.2.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="c5bf571bb10462bd90e5419ade67793f71acbc87">
+        <dex dex="/Users/TheFinestArtist/Documents/PDFView-Android/android-pdfview-sample/build/intermediates/pre-dexed/debug/support-annotations-23.2.0_c3583ea1d86e03c5eff7fe019735ae829f6de33e.jar" />
+    </item>
+    <item
+        jar="/Users/TheFinestArtist/Documents/PDFView-Android/android-pdfview-sample/build/intermediates/exploded-aar/com.android.support/design/23.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="1aa5b025efe97f5006f5be16d6ca67c6c3c0c0d8">
+        <dex dex="/Users/TheFinestArtist/Documents/PDFView-Android/android-pdfview-sample/build/intermediates/pre-dexed/debug/com.android.support-design-23.2.0_c5e8785fbe055ce9663413ec16fbde877d1ab15d.jar" />
+    </item>
+    <item
+        jar="/Users/TheFinestArtist/Documents/PDFView-Android/android-pdfview-sample/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="6e3578f92f7462d1a935a1d36173e3bdd1234976">
+        <dex dex="/Users/TheFinestArtist/Documents/PDFView-Android/android-pdfview-sample/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.2.0_36664fe2c1aaeb27d2c03ddbe3179c53ec21c976.jar" />
+    </item>
+    <item
+        jar="/Users/TheFinestArtist/Documents/PDFView-Android/android-pdfview-sample/build/intermediates/exploded-aar/android-pdfview-parent/android-pdfview/unspecified/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="a7874b00ae4c16f483a37b9c20e63a19fba0de7e">
+        <dex dex="/Users/TheFinestArtist/Documents/PDFView-Android/android-pdfview-sample/build/intermediates/pre-dexed/debug/android-pdfview-parent-android-pdfview-unspecified_dc193cbefc808336ff540e55fff0024312ab075f.jar" />
+    </item>
+    <item
+        jar="/Users/TheFinestArtist/Documents/PDFView-Android/android-pdfview-sample/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="292a9fa091757208efa65e77eef63088247e51f3">
+        <dex dex="/Users/TheFinestArtist/Documents/PDFView-Android/android-pdfview-sample/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-23.2.0_bb805064f93ab6cda34d4510210794aa5ee0ab4c.jar" />
+    </item>
+    <item
+        jar="/Users/TheFinestArtist/Documents/PDFView-Android/android-pdfview-sample/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.0/jars/libs/internal_impl-23.2.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="6e239441500605809818997dd63b62a947195f8c">
+        <dex dex="/Users/TheFinestArtist/Documents/PDFView-Android/android-pdfview-sample/build/intermediates/pre-dexed/debug/internal_impl-23.2.0_96eeabcace4257c7f1cc0e8068b17da8682b94c4.jar" />
+    </item>
+    <item
+        jar="/Users/TheFinestArtist/Documents/PDFView-Android/android-pdfview-sample/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="e5f32fa48a3eb2de0c987025c11b6e3864b634d9">
+        <dex dex="/Users/TheFinestArtist/Documents/PDFView-Android/android-pdfview-sample/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.2.0_fc9d8edb1a5567c87ac2d8906c28d7687687815c.jar" />
+    </item>
+    <item
+        jar="/Users/TheFinestArtist/Documents/PDFView-Android/android-pdfview-sample/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8c108c22c99e794eff255bb34d2a461200c4cbb0">
+        <dex dex="/Users/TheFinestArtist/Documents/PDFView-Android/android-pdfview-sample/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-23.2.0_a649ca8fa9d8cf538ed9ddb4d64ebfe229de73f7.jar" />
+    </item>
+
+</items>
